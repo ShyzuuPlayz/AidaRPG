@@ -29,7 +29,7 @@
 - Fixed Lags.
 
 # CREDITS
-+________________________________________________+
-|    Report any bugs to ● Pablo Escobars ●#0001!   |
-|    Discord: https://discord.gg/f2PQ82S           |
- +________________________________________________+
+-+________________________________________________+
+-|    Report any bugs to ● Pablo Escobars ●#0001!   |
+-|    Discord: https://discord.gg/f2PQ82S           |
+-+________________________________________________+
