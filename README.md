@@ -30,6 +30,6 @@
 
 # CREDITS
 -  +________________________________________________+
-- |    Report any bugs to ● Pablo Escobars ●#0001!   |
+- |    Report any bugs to [ᴹᵒʳᵗʸ] 󠀀󠀀Hachigoro#5531!   |
 - |    Discord: https://discord.gg/f2PQ82S           |
 -  +________________________________________________+
